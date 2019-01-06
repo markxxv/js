@@ -1,5 +1,5 @@
 # My Awesome JS List
 
-Parralax
+## Parralax
 
 [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) — Vanilla JS Parralax
