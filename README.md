@@ -10,6 +10,7 @@
 
 * [gijsroge/priority-navigation](https://github.com/gijsroge/priority-navigation) — Navigation (Priority+ Navigation pattern)
 * [philippesilva/allert.js](https://github.com/philippesilva/allert.js) — Super Light Alerts
+* [bespoyasov/scroller](https://github.com/bespoyasov/scroller) - Horizontal Scroller
 
 ## UI Builder
 
