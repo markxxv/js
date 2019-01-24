@@ -4,6 +4,7 @@
 
 * [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) — Best Vanilla JS Parralax
 * [michalsnik/aos](https://github.com/michalsnik/aos) — Animation on Scroll
+* [gmrchk/swup](https://github.com/gmrchk/swup) — Page Transition 20 kb
 * [luruke/barba.js](https://github.com/luruke/barba.js) — Page Transition Animations with PJAX
 
 ## Navigation
