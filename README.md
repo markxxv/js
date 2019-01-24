@@ -12,6 +12,7 @@
 * [philippesilva/allert.js](https://github.com/philippesilva/allert.js) — Super Light Alerts
 * [dmuy/duDialog](https://github.com/dmuy/duDialog) — Select / Confirmation modals
 * [bespoyasov/scroller](https://github.com/bespoyasov/scroller) - Horizontal Scroller
+* [flouthoc/scrollpup.js](https://github.com/flouthoc/scrollpup.js/) - scroll progress < 1kb
 
 ## UI Builder
 
