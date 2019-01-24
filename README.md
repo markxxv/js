@@ -22,6 +22,7 @@
 ## Scroll
 
 * [scrollreveal/scrollreveal](https://github.com/scrollreveal/scrollreveal) - Scroll Animation
+* [scriptex/AnimateMe](https://github.com/scriptex/AnimateMe/) - Scroll Animation
 * [bespoyasov/scroller](https://github.com/bespoyasov/scroller) - Horizontal Scroller
 * [flouthoc/scrollpup.js](https://github.com/flouthoc/scrollpup.js/) - scroll progress < 1kb
 * [viclafouch/uscroll](https://github.com/viclafouch/uscroll/) - smooth scroll progress 2kb
