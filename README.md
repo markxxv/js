@@ -13,6 +13,7 @@
 ## Navigation
 
 * [gijsroge/priority-navigation](https://github.com/gijsroge/priority-navigation) — Navigation (Priority+ Navigation pattern)
+* [Mega_Menu_Overlay](https://github.com/karanikolas/Mega_Menu_Overlay) — Mega Menu Overlay
 
 ## Micro UI Libraries
 
