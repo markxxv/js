@@ -21,6 +21,7 @@
 
 ## Scroll
 
+* [scroll-out/scroll-out](https://github.com/scroll-out/scroll-out) - on Scroll Animation
 * [scrollreveal/scrollreveal](https://github.com/scrollreveal/scrollreveal) - Scroll Animation
 * [scriptex/AnimateMe](https://github.com/scriptex/AnimateMe/) - Scroll Animation
 * [bespoyasov/scroller](https://github.com/bespoyasov/scroller) - Horizontal Scroller
