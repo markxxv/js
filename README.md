@@ -7,6 +7,7 @@
 * [gmrchk/swup](https://github.com/gmrchk/swup) — Page Transition 20 kb
 * [luruke/barba.js](https://github.com/luruke/barba.js) — Page Transition Animations with PJAX
 * [khushit-shah/Cursor.js](https://github.com/khushit-shah/Cursor.js/) — Typing animation
+* [micku7zu/vanilla-tilt.js](https://github.com/micku7zu/vanilla-tilt.js/) — Apple TV like hover animation
 
 ## Navigation
 
