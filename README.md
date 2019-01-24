@@ -6,7 +6,7 @@
 * [michalsnik/aos](https://github.com/michalsnik/aos) — Animation on Scroll
 * [gmrchk/swup](https://github.com/gmrchk/swup) — Page Transition 20 kb
 * [luruke/barba.js](https://github.com/luruke/barba.js) — Page Transition Animations with PJAX
-* [khushit-shah/Cursor.js](https://github.com/khushit-shah/Cursor.js/) — Typing animation
+* [KobusErasmus/typeit.js](https://github.com/KobusErasmus/typeit.js) — Typing animation
 * [awmiklovic/BGColorMorph](https://github.com/awmiklovic/BGColorMorph/) — Background color Morphing on Scroll
 * [micku7zu/vanilla-tilt.js](https://github.com/micku7zu/vanilla-tilt.js/) — Apple TV like hover animation
 
