@@ -2,7 +2,7 @@
 
 ## Animation
 
-* [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) — Vanilla JS Parralax
+* [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) — Best Vanilla JS Parralax
 * [michalsnik/aos](https://github.com/michalsnik/aos) — Animation on Scroll
 * [luruke/barba.js](https://github.com/luruke/barba.js) — Page Transition Animations with PJAX
 
