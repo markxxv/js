@@ -14,6 +14,7 @@
 
 * [gijsroge/priority-navigation](https://github.com/gijsroge/priority-navigation) — Navigation (Priority+ Navigation pattern)
 * [Mega_Menu_Overlay](https://github.com/karanikolas/Mega_Menu_Overlay) — Mega Menu Overlay
+* [ChrisCavs/headsup.js](https://github.com/ChrisCavs/headsup.js) — Show nav on top scroll
 
 ## Micro UI Libraries
 
