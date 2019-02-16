@@ -21,6 +21,7 @@
 
 * [philippesilva/allert.js](https://github.com/philippesilva/allert.js) — Super Light Alerts
 * [dmuy/duDialog](https://github.com/dmuy/duDialog) — Select / Confirmation modals
+* [soanvig/jsr](https://github.com/soanvig/jsr) — Price Range
 
 ## Scroll
 
