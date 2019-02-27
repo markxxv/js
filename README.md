@@ -22,6 +22,7 @@
 * [philippesilva/allert.js](https://github.com/philippesilva/allert.js) — Super Light Alerts
 * [dmuy/duDialog](https://github.com/dmuy/duDialog) — Select / Confirmation modals
 * [soanvig/jsr](https://github.com/soanvig/jsr) — Price Range
+* [Faboslav/progressive-media](https://github.com/Faboslav/progressive-media/) — Progresive Lazy Load (Like Gatsby)
 
 ## Scroll
 
