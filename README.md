@@ -23,6 +23,7 @@
 * [dmuy/duDialog](https://github.com/dmuy/duDialog) — Select / Confirmation modals
 * [soanvig/jsr](https://github.com/soanvig/jsr) — Price Range
 * [Faboslav/progressive-media](https://github.com/Faboslav/progressive-media/) — Progresive Lazy Load (Like Gatsby)
+* [LukePeters/formvalidatorjs](https://github.com/LukePeters/formvalidatorjs/) — Form Validation with custom messages
 
 ## Scroll
 
