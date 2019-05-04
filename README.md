@@ -38,5 +38,4 @@
 
 ## UI Builder
 
-* [VanOns/laraberg](https://github.com/VanOns/laraberg) — Gutenberg for Laravel
 * [Frontwise/grid-editor](https://github.com/Frontwise/grid-editor) — Visual Grid Editor Bootstrap 4 / Drag and Drop Page builder
