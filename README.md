@@ -35,6 +35,7 @@
 * [flouthoc/scrollpup.js](https://github.com/flouthoc/scrollpup.js/) - scroll progress < 1kb
 * [viclafouch/uscroll](https://github.com/viclafouch/uscroll/) - smooth scroll progress 2kb
 * [pinceladasdaweb/Progress](https://github.com/pinceladasdaweb/Progress/) - progress in % < 1kb
+* [kimulaco/vanilla-smoothie](https://github.com/kimulaco/vanilla-smoothie) - Smoothie scroll to anchor ot to top
 
 ## UI Builder
 
