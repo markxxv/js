@@ -26,6 +26,10 @@
 * [Faboslav/progressive-media](https://github.com/Faboslav/progressive-media/) — Progresive Lazy Load (Like Gatsby)
 * [LukePeters/formvalidatorjs](https://github.com/LukePeters/formvalidatorjs/) — Form Validation with custom messages
 
+## Forms
+
+* [jcubic/tagger](https://github.com/jcubic/tagger/) — Taggable Input
+
 ## Scroll
 
 * [scroll-out/scroll-out](https://github.com/scroll-out/scroll-out) - on Scroll Animation
