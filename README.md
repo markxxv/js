@@ -29,6 +29,7 @@
 ## Forms
 
 * [jcubic/tagger](https://github.com/jcubic/tagger/) — Taggable Input
+* [dudyn5ky1/select-pure](https://github.com/dudyn5ky1/select-pure) — Taggable Select With Helpers
 
 ## Scroll
 
