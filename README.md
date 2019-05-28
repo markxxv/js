@@ -24,10 +24,10 @@
 * [soanvig/jsr](https://github.com/soanvig/jsr) — Price Range
 * [shinsenter/defer.js](https://github.com/shinsenter/defer.js) — Very good lazy load 🇻🇳
 * [Faboslav/progressive-media](https://github.com/Faboslav/progressive-media/) — Progresive Lazy Load (Like Gatsby)
-* [LukePeters/formvalidatorjs](https://github.com/LukePeters/formvalidatorjs/) — Form Validation with custom messages
 
 ## Forms
 
+* [LukePeters/formvalidatorjs](https://github.com/LukePeters/formvalidatorjs/) — Form Validation with custom messages
 * [jcubic/tagger](https://github.com/jcubic/tagger/) — Taggable Input
 * [dudyn5ky1/select-pure](https://github.com/dudyn5ky1/select-pure) — Taggable Select With Helpers
 
