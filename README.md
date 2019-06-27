@@ -44,7 +44,7 @@
 
 ## Carousel
 
-*[embla-carousel](https://github.com/davidcetinkaya/embla-carousel) - Physics simulated carousel
+* [embla-carousel](https://github.com/davidcetinkaya/embla-carousel) - Physics simulated carousel
 
 ## UI Builder
 
