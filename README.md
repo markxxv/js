@@ -42,6 +42,10 @@
 * [pinceladasdaweb/Progress](https://github.com/pinceladasdaweb/Progress/) - progress in % < 1kb
 * [kimulaco/vanilla-smoothie](https://github.com/kimulaco/vanilla-smoothie) - Smoothie scroll to anchor ot to top
 
+## Carousel
+
+*[embla-carousel](https://github.com/davidcetinkaya/embla-carousel) - Physics simulated carousel
+
 ## UI Builder
 
 * [Frontwise/grid-editor](https://github.com/Frontwise/grid-editor) — Visual Grid Editor Bootstrap 4 / Drag and Drop Page builder
