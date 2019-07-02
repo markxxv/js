@@ -46,6 +46,10 @@
 
 * [embla-carousel](https://github.com/davidcetinkaya/embla-carousel) - Physics simulated carousel
 
+## FX
+
+* [https://github.com/gaoryrt/cursor-dot/](gaoryrt/cursor-dot) - Fancy cursor dot
+
 ## UI Builder
 
 * [Frontwise/grid-editor](https://github.com/Frontwise/grid-editor) — Visual Grid Editor Bootstrap 4 / Drag and Drop Page builder
