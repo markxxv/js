@@ -22,6 +22,7 @@
 * [philippesilva/allert.js](https://github.com/philippesilva/allert.js) — Super Light Alerts
 * [dmuy/duDialog](https://github.com/dmuy/duDialog) — Select / Confirmation modals
 * [soanvig/jsr](https://github.com/soanvig/jsr) — Price Range
+* [noUiSlider](https://github.com/leongersen/noUiSlider) - Range slider
 * [shinsenter/defer.js](https://github.com/shinsenter/defer.js) — Very good lazy load 🇻🇳
 * [Faboslav/progressive-media](https://github.com/Faboslav/progressive-media/) — Progresive Lazy Load (Like Gatsby)
 
