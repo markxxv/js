@@ -32,6 +32,10 @@
 * [jcubic/tagger](https://github.com/jcubic/tagger/) — Taggable Input
 * [dudyn5ky1/select-pure](https://github.com/dudyn5ky1/select-pure) — Taggable Select With Helpers
 
+# Repeater fields & field matrix
+
+* [Rhyzz/repeatable-fields](https://github.com/Rhyzz/repeatable-fields) — Repeater fields & group of fields
+
 ## Scroll
 
 * [scroll-out/scroll-out](https://github.com/scroll-out/scroll-out) - on Scroll Animation
