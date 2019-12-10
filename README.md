@@ -32,6 +32,7 @@
 * [LukePeters/formvalidatorjs](https://github.com/LukePeters/formvalidatorjs/) — Form Validation with custom messages
 * [jcubic/tagger](https://github.com/jcubic/tagger/) — Taggable Input
 * [dudyn5ky1/select-pure](https://github.com/dudyn5ky1/select-pure) — Taggable Select With Helpers
+* [vanillaSelectBox](https://github.com/PhilippeMarcMeyer/vanillaSelectBox) — Multi Select Dropdown with Checkboxes
 
 # Repeater fields & field matrix
 
