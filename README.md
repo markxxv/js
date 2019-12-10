@@ -9,6 +9,7 @@
 * [KobusErasmus/typeit.js](https://github.com/KobusErasmus/typeit.js) — Typing animation
 * [awmiklovic/BGColorMorph](https://github.com/awmiklovic/BGColorMorph/) — Background color Morphing on Scroll
 * [micku7zu/vanilla-tilt.js](https://github.com/micku7zu/vanilla-tilt.js/) — Apple TV like hover animation
+* [scroll-to-anchor](https://github.com/LukeCarlThompson/scroll-to-anchor/) — Smoothly Scroll The Page To Anchors
 
 ## Navigation
 
