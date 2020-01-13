@@ -33,6 +33,7 @@
 * [jcubic/tagger](https://github.com/jcubic/tagger/) — Taggable Input
 * [dudyn5ky1/select-pure](https://github.com/dudyn5ky1/select-pure) — Taggable Select With Helpers
 * [vanillaSelectBox](https://github.com/PhilippeMarcMeyer/vanillaSelectBox) — Multi Select Dropdown with Checkboxes
+* [emoji-button](https://github.com/joeattardi/emoji-button/) — Emoji picker
 
 # Repeater fields & field matrix
 
