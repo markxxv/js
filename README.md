@@ -38,6 +38,7 @@
 # Repeater fields & field matrix
 
 * [Rhyzz/repeatable-fields](https://github.com/Rhyzz/repeatable-fields) — Repeater fields & group of fields
+* [jsonform](https://github.com/jsonform/jsonform) — JSON to form / matrix fields
 
 ## Scroll
 
