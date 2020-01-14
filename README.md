@@ -39,6 +39,7 @@
 
 * [Rhyzz/repeatable-fields](https://github.com/Rhyzz/repeatable-fields) — Repeater fields & group of fields
 * [jsonform](https://github.com/jsonform/jsonform) — JSON to form / matrix fields
+* [vfg-field-array](https://github.com/gwenaelp/vfg-field-array) — Vue Repeater fields
 
 ## Scroll
 
