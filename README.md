@@ -21,6 +21,7 @@
 ## Micro UI Libraries
 
 * [philippesilva/allert.js](https://github.com/philippesilva/allert.js) — Super Light Alerts
+* [tata](https://github.com/xrr2016/tata/) — Super Light Toasts
 * [dmuy/duDialog](https://github.com/dmuy/duDialog) — Select / Confirmation modals
 * [soanvig/jsr](https://github.com/soanvig/jsr) — Price Range
 * [noUiSlider](https://github.com/leongersen/noUiSlider) - Range slider
