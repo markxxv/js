@@ -35,6 +35,7 @@
 * [dudyn5ky1/select-pure](https://github.com/dudyn5ky1/select-pure) — Taggable Select With Helpers
 * [vanillaSelectBox](https://github.com/PhilippeMarcMeyer/vanillaSelectBox) — Multi Select Dropdown with Checkboxes
 * [emoji-button](https://github.com/joeattardi/emoji-button/) — Emoji picker
+* [pickle_tree](https://github.com/freakazoid41/pickle_tree/) — Embed Chechbox
 
 # Repeater fields & field matrix
 
