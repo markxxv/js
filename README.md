@@ -65,6 +65,10 @@
 
 * [https://github.com/gaoryrt/cursor-dot/](gaoryrt/cursor-dot) - Fancy cursor dot
 
+## Parsing 
+
+* [https://github.com/jsanahuja/InstagramFeed](InstagramFeed) - Instagram Feed without using the instagram API
+
 ## UI Builder
 
 * [Frontwise/grid-editor](https://github.com/Frontwise/grid-editor) — Visual Grid Editor Bootstrap 4 / Drag and Drop Page builder
