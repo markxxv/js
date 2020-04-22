@@ -17,6 +17,7 @@
 * [Mega_Menu_Overlay](https://github.com/karanikolas/Mega_Menu_Overlay) — Mega Menu Overlay
 * [ChrisCavs/headsup.js](https://github.com/ChrisCavs/headsup.js) — Show nav on top scroll
 * [SkipsoLabs/collapsible](https://github.com/SkipsoLabs/collapsible/) — Priority+ Navigation pattern
+* [wcag-dropdown-navigation](https://www.cssscript.com/wcag-dropdown-navigation/)  — Accessible Navigarion Dropdown
 
 ## Micro UI Libraries
 
