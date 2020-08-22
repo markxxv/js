@@ -11,6 +11,7 @@
 * [micku7zu/vanilla-tilt.js](https://github.com/micku7zu/vanilla-tilt.js/) — Apple TV like hover animation
 * [scroll-to-anchor](https://github.com/LukeCarlThompson/scroll-to-anchor/) — Smoothly Scroll The Page To Anchors
 * [rough-notation](https://github.com/pshihn/rough-notation) - Text selection, notation, animations
+* [viewport-checker](https://github.com/dirkgroenen/viewport-checker) - Viewport checker
 
 ## Navigation
 
