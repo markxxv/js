@@ -77,3 +77,7 @@
 ## UI Builder
 
 * [Frontwise/grid-editor](https://github.com/Frontwise/grid-editor) — Visual Grid Editor Bootstrap 4 / Drag and Drop Page builder
+
+## Mobile
+
+* [swiped-events](https://github.com/john-doherty/swiped-events) — Swipe Events Detection on JavaScript
