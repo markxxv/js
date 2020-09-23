@@ -23,6 +23,7 @@
 
 ## Micro UI Libraries
 
+* [lass-toggler](https://github.com/vyvrhel/class-toggler/) — Toggle / Tabs / FAQ / Menus / Dropdown
 * [philippesilva/allert.js](https://github.com/philippesilva/allert.js) — Super Light Alerts
 * [tata](https://github.com/xrr2016/tata/) — Super Light Toasts
 * [dmuy/duDialog](https://github.com/dmuy/duDialog) — Select / Confirmation modals
