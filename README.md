@@ -42,6 +42,7 @@
 * [pickle_tree](https://github.com/freakazoid41/pickle_tree/) — Embed Chechbox
 * [token-autocomplete](https://github.com/sabieber/token-autocomplete/) — Taggable input with automplete
 * [emails-input](https://github.com/vloth/emails-input/) — Email taggable input with validation
+* [MCDatepicker](https://github.com/mikecoj/MCDatepicker) — Beautiful date picker
 
 # Repeater fields & field matrix
 
