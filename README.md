@@ -43,6 +43,7 @@
 * [token-autocomplete](https://github.com/sabieber/token-autocomplete/) — Taggable input with automplete
 * [emails-input](https://github.com/vloth/emails-input/) — Email taggable input with validation
 * [MCDatepicker](https://github.com/mikecoj/MCDatepicker) — Beautiful date picker
+* [cSelect](https://github.com/Vigorski/cSelect/) — Select with search
 
 # Repeater fields & field matrix
 
