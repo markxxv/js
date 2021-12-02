@@ -1,5 +1,9 @@
 # My Awesome JS List
 
+## Tables
+
+* (DataTables)[https://github.com/fiduswriter/Simple-DataTables] — Vanilla JS DataTables
+
 ## Animation
 
 * [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) — Best Vanilla JS Parralax
