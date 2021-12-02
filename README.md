@@ -2,7 +2,7 @@
 
 ## Tables
 
-* (DataTables)[https://github.com/fiduswriter/Simple-DataTables] — Vanilla JS DataTables
+* [DataTables](https://github.com/fiduswriter/Simple-DataTables) — Vanilla JS DataTables
 
 ## Animation
 
