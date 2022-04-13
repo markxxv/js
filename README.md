@@ -55,6 +55,10 @@
 * [jsonform](https://github.com/jsonform/jsonform) — JSON to form / matrix fields
 * [vfg-field-array](https://github.com/gwenaelp/vfg-field-array) — Vue Repeater fields
 
+# Editor
+
+* [codex/editor](https://github.com/codex-team/editor.js) — Codex Editor.js
+
 ## Scroll
 
 * [locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - Inertial scroll
