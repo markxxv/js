@@ -49,13 +49,13 @@
 * [MCDatepicker](https://github.com/mikecoj/MCDatepicker) — Beautiful date picker
 * [cSelect](https://github.com/Vigorski/cSelect/) — Select with search
 
-# Repeater fields & field matrix
+## Repeater fields & field matrix
 
 * [Rhyzz/repeatable-fields](https://github.com/Rhyzz/repeatable-fields) — Repeater fields & group of fields
 * [jsonform](https://github.com/jsonform/jsonform) — JSON to form / matrix fields
 * [vfg-field-array](https://github.com/gwenaelp/vfg-field-array) — Vue Repeater fields
 
-# Editor
+## Editor
 
 * [codex/editor](https://github.com/codex-team/editor.js) — Codex Editor.js
 
