@@ -77,6 +77,7 @@
 * [tiny-slider](https://github.com/ganlanyuan/tiny-slider) - Tiny Slider / Owl Carousel alternative
 * [glide](https://github.com/glidejs/glide) - JavaScript ES6 Slider / Carousel
 * [keen-slider](https://github.com/rcbyr/keen-slider) - Keen Slider
+* [happleple/SmartPhoto](https://github.com/appleple/SmartPhoto) - Lightbox with carousel and thumbnails
 
 ## FX
 
